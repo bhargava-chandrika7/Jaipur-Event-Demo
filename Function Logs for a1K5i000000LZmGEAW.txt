@@ -1,0 +1,5 @@
+06:44:35	CopadoFunction INFO setting status 'Hello working with system'
+06:44:36	Hello
+06:44:36	% Total    % Received % Xf06:44:36	erd  Average Speed   Time    Time     Time  Current
+06:44:36	                                 Dload  Upload   Total   Spent    Left  Speed
+06:44:36	  0     0    0     0    0     0      0      0 --:--:-- --:--:--06:44:36	 --:--:--     006:44:37	  0     0    0     0    0     0      0 06:44:37	     0 --:--:-- --:--:-- --:--:--     0
